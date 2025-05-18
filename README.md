@@ -6,13 +6,13 @@
 
 ## Features
 
-**Product Listing:** View all products in a responsive table
+**Product Listing**
 
-**Add Products:** View all products in a responsive table
+**Add Products** 
 
-**Update Products:** View all products in a responsive table
+**Update Products** 
 
-**Delete Products:** View all products in a responsive table
+**Delete Products** 
 
 # Technologies
 
@@ -20,7 +20,7 @@
 
 ### ReactJS 18+
 
-### React Hooks (useState, useEffect, useReducer)
+### Redux Toolkit
 
 ### Axios for HTTP requests
 
@@ -30,11 +30,13 @@
 
 ## Backend
 
-### ASP.NET Core
+### ASP.NET Core(Web API)
 
 ### Entity Framework Core
 
 ### SQL Server
+
+### Repository pattern 
 
 ### Swagger/OpenAPI for documentation
 
