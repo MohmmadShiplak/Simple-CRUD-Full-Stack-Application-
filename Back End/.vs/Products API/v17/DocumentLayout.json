@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Model\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|c:\\users\\user\\desktop\\full stack application\\simple-crud-full-stack-app\\back end\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|c:\\users\\user\\desktop\\full stack application\\simple-crud-full-stack-app\\back end\\products api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|solutionrelative:products api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|c:\\users\\user\\desktop\\full stack application\\simple-crud-full-stack-app\\back end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|c:\\users\\user\\desktop\\full stack application\\simple-crud-full-stack-app\\back end\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|c:\\users\\user\\desktop\\full stack application\\simple-crud-full-stack-app\\back end\\products api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|solutionrelative:products api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|c:\\users\\user\\desktop\\full stack application\\simple-crud-full-stack-app\\back end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|c:\\users\\user\\desktop\\full stack application\\simple-crud-full-stack-app\\back end\\profilingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA683149-896A-48E4-8A1E-15E4004AFB4C}|Products API.csproj|solutionrelative:profilingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Repositries\\ProductRepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Interfaces\\IProductRepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Products-BussinessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Products-DataAccessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ProductConfiguartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Migrations\\20250422225327_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Repositries\\ProductRepositry.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Repositries\\ProductRepositry.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Repositries\\ProductRepositry.cs",
+              "RelativeToolTip": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Repositries\\ProductRepositry.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:49:47.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:52:18.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Model\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:59:31.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Interfaces\\IProductRepositry.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Interfaces\\IProductRepositry.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Interfaces\\IProductRepositry.cs",
+              "RelativeToolTip": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Interfaces\\IProductRepositry.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:59:05.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products-BussinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Products-BussinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Products-BussinessLayer.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Products-BussinessLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-BussinessLayer\\Products-BussinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T23:02:57.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products API.http",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\Products API.http",
+              "RelativeDocumentMoniker": "Products API.http",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\Products API.http",
+              "RelativeToolTip": "Products API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-05T14:32:49.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products API.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\Products API.csproj",
+              "RelativeDocumentMoniker": "Products API.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\Products API.csproj",
+              "RelativeToolTip": "Products API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-05T23:02:26.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-05T14:32:45.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:36:27.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products-DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Products-DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Products-DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Products-DataAccessLayer.csproj",
+              "RelativeToolTip": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Products-DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T22:43:40.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:24:59.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductConfiguartion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ProductConfiguartion.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ProductConfiguartion.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ProductConfiguartion.cs",
+              "RelativeToolTip": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\ProductConfiguartion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:59:22.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T03:13:34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250422225327_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Migrations\\20250422225327_initial migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Migrations\\20250422225327_initial migration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Migrations\\20250422225327_initial migration.cs",
+              "RelativeToolTip": "..\\..\\..\\Full Stack CRUD Application(Web)\\Products-DataAccessLayer\\Migrations\\20250422225327_initial migration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:53:28.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfilingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\ProfilingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProfilingMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Full Stack Application\\Simple-CRUD-Full-Stack-App\\Back End\\ProfilingMiddleware.cs",
+              "RelativeToolTip": "ProfilingMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:45:33.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
